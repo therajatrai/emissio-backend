@@ -1,2 +1,2 @@
 # emissio-backend
-This repo contains the backend stuff of one of my dream project Emissio.
+Backend Code for the Project Emissio [An OTT for audio Dramas]
