@@ -1,0 +1,24 @@
+{
+  "name": "emissio-backend",
+  "version": "1.0.0",
+  "description": "The backend service of Emissio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therajatrai/emissio-backend.git"
+  },
+  "author": "Rajat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therajatrai/emissio-backend/issues"
+  },
+  "homepage": "https://github.com/therajatrai/emissio-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "moongoose": "^0.0.5"
+  }
+}
